@@ -2,7 +2,7 @@
 
 > **Goal**: Faithful web recreation of Minecraft Java Edition 1.12.2 (World of Color Update). Single-player only. Built from scratch in the browser. All visual/audio assets belong to Mojang AB — fan project only, no commercial distribution.
 >
-> **Credits**: Joem — for the vision, assets, and making this project possible.
+> **Credits**: enzod — for the vision, assets, and making this project possible.
 
 ---
 
