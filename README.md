@@ -5,3 +5,13 @@
 **How will i do this? by creating a MASSIVE plan.md containing all the features explaining all the features and documenting all blocks, advancements, and so much more.**
 
 **this will only be minecraft 1.12.2 as it will be a very big job for the ai**
+
+## Plan
+
+So whats the plan.md?
+
+here is the [plan.md](https://github.com/Wiffiles/minecrack/blob/main/README.md) <-- click. to view plan.md
+
+Status of plan.md
+
+13318 lines (11983 loc) · 597 KB
